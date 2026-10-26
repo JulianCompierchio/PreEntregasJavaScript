@@ -1,0 +1,22 @@
+# Sistema Operativo
+.DS_Store
+Thumbs.db
+
+# Entorno y secretos
+.env
+venv/
+_pycache_/
+
+# Dependencias
+node_modules/
+package-lock.json
+package.json
+
+# Editores
+.vscode/
+.idea/
+*.swp
+
+# Logs y temporales
+*.log
+*.tmp
